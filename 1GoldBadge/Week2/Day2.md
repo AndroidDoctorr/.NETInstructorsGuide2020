@@ -1,13 +1,8 @@
-# Gold Badge
+# Gold Badge: Week Two
 
-## Week Two
+# Day Two
 
-### Day Two
-
-____________________________________
 ## Morning Challenge
-
-### Challenge 
 ```text
 Komodo has a number of software development teams. Developers have an id, a last name, and some have a Pluralsight 
 account and some don’t.  Create a Team class that allows us to add a list of developers to a team.  
