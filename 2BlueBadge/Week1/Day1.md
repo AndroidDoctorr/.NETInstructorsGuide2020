@@ -1,4 +1,4 @@
-# Part 1.0: This is the Title
+# Gold Badge
 
 ## This is an h2
 
