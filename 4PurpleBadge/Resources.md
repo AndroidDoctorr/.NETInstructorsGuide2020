@@ -44,8 +44,6 @@
 
 ### SQL
 * [Basics Gitbook](https://eleven-fifty-academy.gitbook.io/sql-101-basics/)
-* [Linktext](link)
-* [Linktext](link)
 * [Docs](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017)
 
 ### WordPress
