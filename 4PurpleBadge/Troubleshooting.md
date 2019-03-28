@@ -28,9 +28,6 @@
 
 ### 14. Use Chrome's inspect tool
 
-### 15. 
-
-
 # .Net Specific
 
 ### 1. Breakpoint
