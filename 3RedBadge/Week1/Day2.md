@@ -1,1 +1,37 @@
-# Part 1.1
+# Red Day 2
+
+### Give out Groups
+
+### Git walkthrough in morning
+
+### Give out Garden App after lunch
+
+```text
+**************************
+GARDEN PROJECT (TEAM GIT WITH ANGULAR AND POSTGRESQL)
+**************************
+
+A client has come to you and asked you to make a garden website with the following:
+A nice logo (make something up that looks nice)
+A home page talking about the company
+An about page talking about the client with a contact section bringing in Formspree
+A products page talking about the products that brings in the seeded backend 
+An admin feature that allows you to DELETE any individual product
+
+Use Angular to create the site
+Use git to push to a single repo on GitHub
+Make it look nice
+
+Presentations for the 'client' will be tomorrow after lunch
+
+Credentials:
+Products: https://efa-gardenapp-backend.herokuapp.com/api/product
+Admin: https://efa-gardenapp-backend.herokuapp.com/api/auth/login
+Admin Email (Options):
+ atyler@gmail.com
+ mcook@gmail.com
+ mhowell@gmail.com
+ twest@gmail.com
+ vray@gmai.com
+Admin Password: test
+```
