@@ -1,5 +1,8 @@
-# Gold Badge
+# Red Badge Day One
 
-## This is an h2
+### Give out Eleven Note Angular
 
-### This is an h3
+#### [ElevenNote Angular Gitbook](https://eleven-fifty-academy.gitbook.io/dotnet-301-elevennoteangular/)
+
+### Note: You MUST have the Eleven Note API functioning to complete this walkthrough
+
