@@ -3,6 +3,8 @@ Codepen account setup if needed. Students who went through ITC should have an ac
 
 Unlike with our Static HTML Registration Page and our 2 Truths, 1 Lie projects, Codepen does not include the html head.
 
+For the rest of the day the students can work on their Smiley Face walkthrough and then their CSS Creature.
+
 CSS Creature Day 1 Assignment - Due Tuesday (Week 1 Day 2) Morning.
 
 Students can present, or depending on class size you can have them split into groups and choose who presents from the groups.
