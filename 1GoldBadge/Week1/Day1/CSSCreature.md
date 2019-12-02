@@ -1,0 +1,10 @@
+## CSS Creature Assignment
+Codepen account setup if needed. Students who went through ITC should have an account unless current ITC structure changes.
+
+Unlike with our Static HTML Registration Page and our 2 Truths, 1 Lie projects, Codepen does not include the html head.
+
+CSS Creature Day 1 Assignment - Due Tuesday (Week 1 Day 2) Morning.
+
+Students can present, or depending on class size you can have them split into groups and choose who presents from the groups.
+
+Presentations should include discussing struggles, wins, and interesting things learned and how the learning process went.

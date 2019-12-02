@@ -1,7 +1,4 @@
-<!-- ![alt text](./images/efalogo.png =250x) -->
 <img src="./assets/efalogo.png" style="width: 400px;"/>
-
-# Introduction
 
 ## Welcome to the .NET Curriculum Guide!
 
