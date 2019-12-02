@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Gold Badge: ](1GoldBadge)
+* [Gold Badge: ](1GoldBadge/README.md)
     * [Week 1](1GoldBadge/Week1/Home)
         * [Day 1](1GoldBadge/Week1/Day1)
         * [Day 2](1GoldBadge/Week1/Day2)
