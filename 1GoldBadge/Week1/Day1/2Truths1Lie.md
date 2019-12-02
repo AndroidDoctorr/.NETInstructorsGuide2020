@@ -13,11 +13,11 @@ Have the students complete whatever they can from. **Limit to 30 minutes of work
 	Make 3 p tags (one for each h3 tag), giving a short sentence elaborating that truth/lie.  
 	Wrap it all in a div tag.
 ### Silver:
-  	Using CSS:
-    Make the h1 tag LIGHT GREEN and CENTERED.
-    Make each h3 tag BLUE.
-    Make each p tag RED.
-    Wrap it all in a BORDER that is THICK and BLACK.
+	Using CSS:
+	Make the h1 tag LIGHT GREEN and CENTERED.
+	Make each h3 tag BLUE.
+	Make each p tag RED.
+	Wrap it all in a BORDER that is THICK and BLACK.
 ### Gold:
 	Curve the corners of that BORDER.
 	Give it a BACKGROUND COLOR of GREY.

@@ -27,7 +27,8 @@ Give some background about yourself, why you do what you do, make yourself relat
 We recommend that during code alongs you get used to taking digital notes instead of paper notes. If you can't keep up with the speed at which we are going, make sure you ask questions. You'll only improve your typing speed by typing, same way that your coding abilities will only improve the more you code.
 
 ### Intro to class
-You **need** to have Windows. This **NEEDS** to be done before day 2 if somehow it was missed at this point. Markdown really limits how much I can emphasize how much the students **NEED** to have Windows.  
+You **need** to have Windows. This **NEEDS** to be done before day 2 if somehow it was missed at this point. Markdown really limits how much I can emphasize how much the students **NEED** to have Windows.
+
 Send out Canvas invites for the Gold Badge Course to the students.  
 Installs can be checked early in the morning, or during the first challenge.  
 
@@ -42,9 +43,10 @@ Installs to be checked:
 Establish when you will be available on Slack. This time may change, or you may be strict on what times.  
 Some instructors have opted to provide an hour each night, some instructors stay over a little, some just work in the defined hours. You will need to find what is best for you and your class. In Gold badge you will likely find students who need a little more help.
 
-Outline the instructor/student responsibility for learning and how that will change from badge to badge. Be sure to revisit this concept at the beginning of Blue.  
-Remind them that this will be a fast paced course. There will still be considerable responsibility on them to make sure they're on pace.
-Lay out a basic outline of what to expect each day.  
+Outline the instructor/student responsibility for learning and how that will change from badge to badge. Be sure to revisit this concept at the beginning of Blue.
+
+Remind them that this will be a fast paced course. There will still be considerable responsibility on them to make sure they're on pace. Use this time to lay out a basic outline of what to expect each day.
+
 While you're at it, make sure you cover a basic outline of assesments for the badge. Students should know what will go toward their official assessment.
 
 ### Canvas
@@ -53,7 +55,7 @@ While you're at it, make sure you cover a basic outline of assesments for the ba
   Show Assignments and Due Dates.  
   Show/discuss Weekly Feedback Survey -> **Remind on Friday**
 
-### DUE DATES:
+### Due Dates:
 * CSS Creature
 	* Due Tueday of Week 1
 * Static Store Front
