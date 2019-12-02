@@ -30,5 +30,3 @@ Badge
 ### 7. Stop new material by **3:00-3:30**. This is to allow time for students to catch up one-on-one or have work time for projects. If a student is advanced, look to the Bonus Challenges for that week to give them something to work on.
 ## **5:00 PM End Of Day**
 ### 8. Try your best to leave by 5:00 or 5:30 at the latest. Its good to have boundaries and we all need some rest
-
-[Click here for link to all Badges](./SUMMARY.md)
