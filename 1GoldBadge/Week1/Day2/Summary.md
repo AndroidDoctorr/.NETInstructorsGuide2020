@@ -4,6 +4,7 @@ You'll start the day off by having the students [present their CSS Creatures](Cr
 
 Once the presentations are done you'll need to start the C# lecture portion of the day.  
 We have this broken into a handful of broad categories:
+
 1. [Types and Variables](LectureMaterials/TypesAndVariables.md)
 2. [Operators](LectureMaterials/Operators.md)
 3. [Conditionals](LectureMaterials/Conditionals.md)
