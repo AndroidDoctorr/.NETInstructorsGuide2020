@@ -18,7 +18,7 @@ Badge
 ## **9:00 AM Start**
 ### 1. Take time to lay out the structure for the day
 ### 2. Answer any questions from the students. You should not take more than 15 minutes for this.
-### 3. Start out the day with a  morning challenge, quiz, or both
+### 3. Start out the day with a morning challenge, quiz, or both
 ### 4. If there is no morning challenge, have a small lecture for the morning
 ## **Lunch**
 ### 5. Answer questions from the morning challenge or finish up morning lecture.

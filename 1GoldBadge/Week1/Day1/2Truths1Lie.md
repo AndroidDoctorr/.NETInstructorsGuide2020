@@ -1,4 +1,3 @@
-## Optional 2 Truths, 1 Lie challenge
 The goal of this challenge is to let students review some HTML and CSS early. It also gives you time to walk around and gauge how the students are doing, as well as help with installs if somehow they got missed.
 
 If you are going to have the students do this, it's recommended that you review some of the code. You can either just answer questions about it or quickly build it out.

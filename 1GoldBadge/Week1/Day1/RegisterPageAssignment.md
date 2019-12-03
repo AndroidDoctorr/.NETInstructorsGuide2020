@@ -1,4 +1,3 @@
-## Static HTML Register Page Assignment
 Show the students the HTML Register Page assignment on Canvas.  
 Show example image and allow them time to begin working on it.  
 You may want to offer to walk through setting up their folder structure. They will need a folder, an index.html, and a css file.

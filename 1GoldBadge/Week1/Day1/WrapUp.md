@@ -1,4 +1,3 @@
-## Wrap Up
 If the students do not complete their CSS creature in class it should be their priority for the evening.
 
 If they *have* completed their creature, they may want to review their C# prework for tomorrow. It's also recommended that you share this link to the MSDN documentation for students to review for day 2.

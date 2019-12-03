@@ -1,4 +1,3 @@
-## CSS Creature Assignment
 Codepen account setup if needed. Students who went through ITC should have an account unless current ITC structure changes.
 
 Unlike with our Static HTML Registration Page and our 2 Truths, 1 Lie projects, Codepen does not include the html head.

@@ -10,4 +10,4 @@
 * Lay out a basic outline of what to expect each day
 * Lay out a basic outline of assessments. Students should know what will go toward their official assessment
 
-In case you need emotional encouragement, click [here](https://www.youtube.com/watch?v=9PzoxTgfRO0)
+In case you need emotional encouragement, click [here](https://www.youtube.com/watch?v=9PzoxTgfRO0).

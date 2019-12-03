@@ -1,4 +1,3 @@
-## Gold Badge: Week 1 Day 1
 Welcome to day 1 of Gold Badge! We have a lot of information to cover today. Once we get all of this out of the way we can start the fun stuff.
 
 ### Staff Introductions

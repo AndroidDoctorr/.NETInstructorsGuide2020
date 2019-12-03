@@ -1,4 +1,3 @@
-## Week 1 Day 1 Summary
 Today will be spent mostly reviewing/covering HTML and CSS as well as an overview of the course. Day one is a little slow, but don't worry the class definitely will speed up quickly.
 
 Start off with [Introductions](Introduction.md). This can take up a lot of time, so try and limit it to be **done by 9:30**.
