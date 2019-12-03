@@ -118,4 +118,4 @@ DateTime birthday = new DateTime(1972, 6, 20);
 We'll see this `new` keyword more as we start working with more complex objects. This keyword literally creates a NEW instance of whatever type you're using, meaning it must allocate memory for the new object.  
 This should start to make more sense once you get into reference types.
 
-You can show off a TimeSpan object later in the [Operators](Operators.md) section.
+You can show off a TimeSpan object later in the Operators section.
