@@ -13,7 +13,12 @@ Badge
 
 <br>
 
-# Basic Daily Outline
+## Canvas
+A lot of the content in this walkthrough will reference the Canvas courses. If you are not already a part of the .NET Gold/Blue/Red Template courses, make sure you get added to those. These will be the foundation for all courses. Ideally we will just keep these Template courses updated and all new classes can be created as a copy of these courses.
+
+<br>
+
+## Basic Daily Outline
 
 ## **9:00 AM Start**
 ### 1. Take time to lay out the structure for the day
