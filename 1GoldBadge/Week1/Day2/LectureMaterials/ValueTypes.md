@@ -9,7 +9,7 @@ When you initialize something, you're **assigning** it a **value**.
 You can do these at the same time or in separate statements.
 
 ```C#
-//Here we've declared a variable called declared
+// Here we've declared a variable called declared
 bool declared;
 
 // Now we've called our variable and assigned a value to it
