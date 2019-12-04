@@ -19,6 +19,16 @@ string declarationAndInitialization = "This is both declaring and initializing."
 
 Strings are our way to show a collection of characters (char) in C#. Strings can contain a collection of any letter, number, symbol, etc. Instead of having to declare each character at a time we just declare a string and give it its entire value.
 
+If a string is declared but not given an initial value, it will be **null**. What are the differences between zero and null?
+
+0 is a value.  
+If you have a string with a value of "", it still has a value.  
+Null is absolutely nothing. It's the lack of value.
+
+[Here's a visual aid!](https://i.redd.it/3370lkxk56ny.jpg)
+
+This stands true for all reference types.
+
 #### Manipulating Strings
 
 We have a few different methods of manipulating strings. Start by declaring a few new strings.
