@@ -89,7 +89,7 @@ We'll be seeing a few different collection types, and while we'll need to dive d
 
 Lists are the first type we want to show. Often you'll find yourself using Lists instead of arrays, because a List can grow dynamically where an array has its size defined at initialization.
 
-Like we did with the DateTimes earlier, we're going to use the `new` keyword here. Remember this is how we new up an brand new instance of the type (in this case an instance of the List class) we're declaring.
+Like we did with the DateTimes earlier, we're going to use the `new` keyword here. Remember this is how we new up a brand new instance of the type (in this case an instance of the List class) we're declaring.
 
 ```C#
 List<string> listOfStrings = new List<string>();

@@ -2,7 +2,7 @@
 
 ## Welcome to Gold Badge!
 
-### Gold Badge students need a lot of you time. Be sure to set up guidelines for how your Gold Badge class will run. This is **_essential_** to do early on. Good recomendations:
+### Gold Badge students need a lot of your time. Be sure to set up guidelines for how your Gold Badge class will run. This is **_essential_** to do early on. Good recomendations:
 
 * Establish when you will be available on slack
 * Outline the instructor/student responsibility for learning and how that will change from badge to badge. Be sure to revisit this concept at the beginning of Blue.

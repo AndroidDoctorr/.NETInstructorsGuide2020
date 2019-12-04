@@ -12,8 +12,8 @@ Give some background about yourself, why you do what you do, make yourself relat
 
 ### General Expectations
 
-* Professionalism. This class is all about 
-* Minimum 90% attendance. The program moves very quickly and any time you miss will can be a lost opportunity. If you do need to miss, make sure you check in with your Instructor(s).
+* Professionalism. This course focuses on both learning to code but also how to act in a code related work place.
+* Minimum 90% attendance. The program moves very quickly and any time you miss will be a lost opportunity. Should a situation arise where you are required to miss class make sure you check in with your instructor(s).
 * Determination/grit. This is a difficult task. There will be times where you will have to absolutely just power through the struggles.
 * Effort. What you put into the program is what you will get out!
 * Have a positive mental attitude. This is not easy, but if you're not able to stay positive this difficult task will be even harder.
@@ -56,7 +56,7 @@ While you're at it, make sure you cover a basic outline of assesments for the ba
 
 ### Due Dates:
 * CSS Creature
-	* Due Tueday of Week 1
+	* Due Tuesday of Week 1
 * Static Store Front
   * Assigned Thursday Week 1
   * Due Monday of Week 2

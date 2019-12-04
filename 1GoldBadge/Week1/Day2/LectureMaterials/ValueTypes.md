@@ -82,7 +82,7 @@ Make sure you explain that each of these have different uses. Also, double is th
 
 ### Enums
 
-As we proceed through C# we'll find outself making new types. Exciting, right‽ One of the easiest ways to do this is with an **enum**.
+As we proceed through C# we'll find ourselves making new types. Exciting, right‽ One of the easiest ways to do this is with an **enum**.
 
 An enum has two main parts:
 * A name (the name of the type)
@@ -106,7 +106,7 @@ Notice that when we assign the variable a value we're calling the value directly
 
 ### Structs
 
-While understanding what a struct is may be difficult for the students to start off, it may be good to introduce them to the concept to start off.
+While understanding what a struct is may be difficult for the students to start off, it may be good to introduce them to the concept.
 
 An example of a struct that can be shown would be a `DateTime` or `TimeSpan`.
 

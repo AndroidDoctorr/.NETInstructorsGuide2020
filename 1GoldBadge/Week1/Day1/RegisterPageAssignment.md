@@ -3,7 +3,7 @@ Show example image and allow them time to begin working on it.
 You may want to offer to walk through setting up their folder structure. They will need a folder, an index.html, and a css file.
 
 **This may take the rest of the morning.** Expect the register pages to not be complete until after lunch. We want to make sure the students have plenty of time to work through their problems.  
-This is an opportunity to start working through a problem on their own. Encourage the students to start using Google when they problems.
+This is an opportunity to start working through a problem on their own. Encourage the students to start using Google when they have problems.
 
 Help the students deploy it to GitHub Pages after lunch, even if the project is not entirely complete.
 

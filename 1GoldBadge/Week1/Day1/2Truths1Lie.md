@@ -2,7 +2,7 @@ The goal of this challenge is to let students review some HTML and CSS early. It
 
 If you are going to have the students do this, it's recommended that you review some of the code. You can either just answer questions about it or quickly build it out.
 
-Have the students complete whatever they can from. **Limit to 30 minutes of worktime.**
+Give the time students to complete what they can but **limit them to 30 minutes of worktime.** It's important to keep moving forward today.
 
 ## Challenge Prompt
 

@@ -16,8 +16,8 @@ If you have the time, feel free to review CSS and see what the students remember
 2. Setup a new folder for the project. This folder will hold our index.html for now as the goal is to keep everything organized. For example, make an HTMLForms (or whatever naming convention you prefer) folder inside your ElevenFiftyProjects folder. Once you have this folder created, open the folder in VS Code.
 3. Inside this new folder, create an index.html file. You can do this either in the File Explorer or through VS Code (recommeded). Once you have it created, scaffold out some HTML code by using the ! snippet.
 4. Now that you have your HTML file open it in your web browser. Make sure everyone has it set up so they can open it in the browser. You can demonstrate viewing the changes by updating the **title** tag to say "Forms Example" or something like it.
-5. Add form tag opening and closing tags. Feel free to refresh your browser to show off the that the form tag doesn't display anything by itself. Ask them if they can figure out why nothing's showing up?
-6. Now that you have your form, add an input tag. Start without a type. Demonstrate its the ability to type, and hit enter with it.
+5. Add form tag opening and closing tags. Feel free to refresh your browser to show off that the form tag doesn't display anything by itself. Ask them if they can figure out why nothing's showing up?
+6. Now that you have your form go ahead and add an input tag. For now work without a type attribute. Demonstrate the functionalities included, i.e., the ability to type in the tag and hit enter to "submit" your information.
 7. Add a second input tag, then add types (text and password or other types if you want to show them off).
 8. Add divs around the input tags which will move them to separate lines.
 9. Add a button after the input tags with the submit type.

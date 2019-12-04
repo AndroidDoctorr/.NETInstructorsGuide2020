@@ -2,7 +2,7 @@
 
 ## Welcome to the .NET Curriculum Guide!
 
-### This GitBook is designed to be a simple easy guide to teaching the full Eleven Fifty Academy course for .NET. We have broken this out as follows: 
+### This GitBook is designed to be a simple, easy guide to teaching the full Eleven Fifty Academy course for .NET. We have broken this out as follows: 
 ```text
 Badge 
     Week
