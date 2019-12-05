@@ -1,6 +1,8 @@
+01_Types Assembly  
+ValueTypeExamples.cs
+
 ```C#
 using System;
-using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace _01_Types
@@ -65,9 +67,13 @@ namespace _01_Types
 			PastryType anotherOne = PastryType.Cake;
 		}
 
+		// Number types in C# are structs as well, but we use the keywords so we don't notice it as much. That's why numbers have a default value of 0 when they are declared.
 		[TestMethod]
 		public void Structs()
 		{
+			// If we hover over the int keyword intellisense will show us that it is a struct
+			int age = 42;
+
 			DateTime today = DateTime.Today;
 			DateTime birthday = new DateTime(1972, 6, 20);
 		}

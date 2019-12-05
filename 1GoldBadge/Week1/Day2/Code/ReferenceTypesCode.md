@@ -1,3 +1,6 @@
+01_Types Assembly  
+ReferenceTypeExamples.cs
+
 ```C#
 using System;
 using System.Collections.Generic;
@@ -18,8 +21,7 @@ namespace _01_VariablesAndTypes
 			string concatenatedFullName = firstName + " " + lastName;
 
 			// Composite Formatting
-			string compositeFullName =
-					string.Format("Hi my name is {0} {1}", firstName, lastName);
+			string compositeFullName = string.Format("Hi my name is {0} {1}", firstName, lastName);
 
 			// String Interpolation
 			string interpolatedFullName = $"{firstName} {lastName}";

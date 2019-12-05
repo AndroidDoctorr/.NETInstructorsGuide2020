@@ -115,7 +115,12 @@ DateTime today = DateTime.Today;
 DateTime birthday = new DateTime(1972, 6, 20);
 ```
 
-We'll see this `new` keyword more as we start working with more complex objects. This keyword literally creates a NEW instance of whatever type you're using, meaning it must allocate memory for the new object.  
+We'll see this `new` keyword more as we start working with more complex objects. This keyword literally creates a NEW instance of whatever type you're using, meaning it must allocate memory for the new object.
+
+Structs can be declared and used without using the new keyword. They will not be null, but instead they default to a base value.
+
+For example, number types in C# are structs as well, but we use the keywords and directly assign a value instead of newing one up. Because of this, we don't notice their structure. Because of this, numbers have a default value of 0 instead of null when they are declared.
+
 This should start to make more sense once you get into reference types.
 
 You can show off a TimeSpan object later in the Operators section.

@@ -15,11 +15,13 @@ Humans use conditionals every day of their life, even if they don't realize it. 
 * If I am tired, I should sleep.
 * If I am bad, I should get good.
 
-The concept of a conditional is exactly that. You declare a condition and write out should happen if the condition is true.
+The concept of a conditional is exactly that. You declare a condition and write out what should happen if the condition is true.
 
 For example, if you're not hungry you don't need to eat. If you ARE hungry, then you should eat. That can be written as a simple if statement.
 
 ```C#
+bool userIsHungry = true;
+
 if (userIsHungry)
 {
 	// Put code that should fire off if the userIsHungry condition is true inside these braces
@@ -34,6 +36,8 @@ How would we write that in code?
 We've shown how if statements work, so let's write one out for this. For this example let's imagine we have a boolean called `choresAreDone`.
 
 ```C#
+bool choresAreDone = false;
+
 if (choresAreDone)
 {
 	Console.WriteLine("Have fun at the movies!");
@@ -52,6 +56,16 @@ else
 ```
 
 The **else** must always come right after the **if** statement is completed.
+
+<br>
+
+#### Comparators
+
+In C# we have a decent amount of comparators to introduce. 
+
+<br>
+
+#### Nesting Conditionals
 
 We can also nest an **if** inside an already existing **else** block. This will allow situations where we can say if else if. We can also simply do if with an if inside of it.
 
@@ -79,7 +93,7 @@ else //-- first else
 }
 ```
 
-Before moving on have the students mess around with this. Change up the input value and step through different scenarios with breakpoints.
+Before moving on, have the students mess around with this. Change up the input value and step through different scenarios with breakpoints.
 
 If you only want to stack if statements you can ignore the first part in the else and just do an `if, else if`:
 

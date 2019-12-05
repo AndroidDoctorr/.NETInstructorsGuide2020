@@ -1,2 +1,3 @@
-At the end of lecture you can give out the Cheese Store Module in canvas. This will be the work for the remainder of the day. The Cheese Store walkthrough is an optional resource for the student, but it's a good start for the Static Storefront assignment they'll be starting later this week.  
+At the end of lecture you can give out the Cheese Store Module in canvas. This will be the work for the remainder of the day. The Cheese Store walkthrough is an optional resource for the student, but it's a good start for the Static Storefront assignment they'll be starting later this week.
+
 Additionally, if time permits, you can spend this time addressing any left over questions on today's materials.
