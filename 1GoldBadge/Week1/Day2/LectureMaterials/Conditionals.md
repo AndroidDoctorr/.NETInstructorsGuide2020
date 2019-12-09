@@ -59,12 +59,6 @@ The **else** must always come right after the **if** statement is completed.
 
 <br>
 
-#### Comparators
-
-In C# we have a decent amount of comparators to introduce. 
-
-<br>
-
 #### Nesting Conditionals
 
 We can also nest an **if** inside an already existing **else** block. This will allow situations where we can say if else if. We can also simply do if with an if inside of it.

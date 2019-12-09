@@ -5,7 +5,7 @@ OperatorExamples.cs
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace _01_VariablesAndTypes
+namespace _02_Operators
 {
 	[TestClass]
 	public class OperatorExamples
