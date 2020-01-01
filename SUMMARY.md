@@ -29,6 +29,7 @@
                 * [Loops](1GoldBadge/Week1/Day2/LectureMaterials/Loops.md)
                     * [Final Code](1GoldBadge/Week1/Day2/Code/LoopsCode.md)
                 * [Intro to Methods](1GoldBadge/Week1/Day2/LectureMaterials/IntroToMethods.md)
+                    * [Final Code](1GoldBadge/Week1/Day2/Code/IntroToMethodsCode.md)
             * [Daily Wrap Up](1GoldBadge/Week1/Day2/WrapUp.md)
         * [Day 3 Summary](1GoldBadge/Week1/Day3.md)
         * [Day 4 Summary](1GoldBadge/Week1/Day4.md)
