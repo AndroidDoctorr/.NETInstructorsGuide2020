@@ -25,11 +25,3 @@ If you have the time, feel free to review CSS and see what the students remember
     
 ## Form Quiz
 Following the HTML Form Lecture, have the students take the canvas quiz that covers forms.
-
-<br/>
-
-## Video Lecture Content
-
-Occassionally we'll have a video lecture. This content should be used as reference or for part time students. If you feel the need, you can also share it with the students in the full time classes if they absolutely need.
-
-<iframe src="https://player.vimeo.com/video/356430337" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

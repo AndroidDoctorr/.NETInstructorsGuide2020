@@ -32,3 +32,15 @@ A lot of the content in this walkthrough will reference the Canvas courses. If y
 ### 7. Stop new material by **3:00-3:30**. This is to allow time for students to catch up one-on-one or have work time for projects. If a student is advanced, look to the Bonus Challenges for that week to give them something to work on.
 ## **5:00 PM End Of Day**
 ### 8. Try your best to leave by 5:00 or 5:30 at the latest. Its good to have boundaries and we all need some rest
+
+<br/>
+
+## Video Lecture Content
+
+While it's recommended to make sure all lecture happens in person, you may find times where the students need a little more time or some review. While there are also outside resources they can be directed to, we do have a collection of video lectures. While we do not have a video for each topic, we'd like to provide you and the students with these videos when needed.
+
+Do not that these are not regularly updated so make sure you check the materials before recommending them to students. Also feel free to use these as guide materials for your lectures, or at least as a place to start. Do not entirely replace the in class lecture with video content.
+
+If you find a video is outdated or needs any corrections, you are always welcome and encouraged to create new materials to replace the old ones, as with all teaching materials.
+
+All videos should be available in Canvas and Vimeo.
